@@ -13,5 +13,5 @@
 #### 5.研究伦理提示<br>
 >根据ACM/IEEE软件工程伦理准则第2.9条，漏洞研究成果应优先通过CVE机制提交至厂商（如Valve Security），未经授权的攻击链复现可能构成《刑法》第285条非法侵入计算机信息系统罪。<br>
 ##### 并不重要的小广告
-[本人的小小店铺地址](https://www.goofish.com/personal?spm=a21ybx.account.menu.1.208c35ca0WAJ20) <br>
+[本人的店铺地址](https://www.goofish.com/personal?spm=a21ybx.account.menu.1.208c35ca0WAJ20) <br>
 有任何需要请多多支持，感谢感谢 :wink:
