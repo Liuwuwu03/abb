@@ -36,4 +36,7 @@ SteamTools是一款多功能的Steam辅助工具，其核心功能聚焦于**游
 **3. 典型应用场景**  
 - **游戏测试**：开发者快速切换测试账号验证多用户场景。  
 - **跨区体验**：访问区域独占内容（如日本区视觉小说）。  
-- **家庭共享优化**：多人共享游戏库时减少设备授权冲突。  
+- **家庭共享优化**：多人共享游戏库时减少设备授权冲突。
+
+[steamtools](https://www.steamtools.net/)<br>
+[Greenluma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709&hilit=greenluma)
